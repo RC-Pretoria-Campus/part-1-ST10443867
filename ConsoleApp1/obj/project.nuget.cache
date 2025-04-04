@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XBQmKMd58OI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RC_Student_lab\\source\\repos\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RC_Student_lab\\.nuget\\packages\\system.speech\\9.0.3\\system.speech.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
